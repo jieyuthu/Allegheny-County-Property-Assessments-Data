@@ -1,0 +1,11 @@
+geopy==2.2.0
+matplotlib==3.5.1
+numpy==1.21.2
+pandas==1.4.0
+psutil==5.9.0
+python_dateutil==2.8.2
+scikit_learn==1.1.1
+seaborn==0.11.2
+statsmodels==0.13.2
+uszipcode==1.0.1
+xgboost==1.6.1
